@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Best Party</string>
+    <string name="action_settings">Settings</string>
+    <!-- Nature StartScreens. -->
+    <string name="tv_loguearse">Registrate</string>
+    <string name="tv_name_nature">Best Party</string>
+    <string name="tv_Hola">Best Party</string>
+    <string name="tv_HolaDescripcion">Fiestas aburridas!!! te damos algunas ideas para que no te vuelvan a pasar.</string>
+    <string name="tv_Fiesta1">Mardy Gras</string>
+    <string name="tv_FiestaDescripcion1">Desfile con carrosas,disfraces. Hay bebida y comida hasta que el sol vuelva a salir.</string>
+    <string name="tv_Fiesta2">Party Boat</string>
+    <string name="tv_FiestaDescripcion2">Cada año sarpa un barco desde Estocolmo hasta Helsinky y vuelve al dia siguiente, y que lo que ocurre, pues que miles de estudiantes con ganas de fiesta van abordo.</string>
+    <string name="tv_Fiesta3">Frost</string>
+    <string name="tv_FiestaDescripcion3">En California, se celebra una fiesta tematica sobre el hielo. Con un poco de nieve artificial y una decoracion estilo Iceberg y muchos chupitos.</string>
+    <string name="tv_Fiesta4">W.I.L.D</string>
+    <string name="tv_FiestaDescripcion4">Una fiesta de Otoño y otra en Primavera. Basicamente es como hacer una fiesta en el salon de tu casa con 10 000 amigos.</string>
+</resources>
