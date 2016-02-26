@@ -18,7 +18,7 @@ Configuration
 - Adapter for phones.
 
 <div align="center">
-        <img width="45%" src="ScreenShots/walpaperparty.png" alt="About screen" title="About screen"</img>
+        <img width="45%" src="ScreenShots/wallpaperparty.png" alt="About screen" title="About screen"</img>
         <img height="0" width="8px">
 </div>
 
