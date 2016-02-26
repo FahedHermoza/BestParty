@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.fahed.developer.nature"
+        applicationId "com.fahed.developer.bestparty"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 1
