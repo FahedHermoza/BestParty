@@ -104,7 +104,7 @@ public class MainActivityFragment extends Fragment {
         mViewFlipper = (ViewFlipper) rootView.findViewById(R.id.vfInformacion);
         //Inicilaizar automaticamente View Flipper
         mViewFlipper.setAutoStart(true);
-        mViewFlipper.setFlipInterval(4000);
+        mViewFlipper.setFlipInterval(7000);
         mViewFlipper.setInAnimation(AnimationUtils.loadAnimation(mContext, R.anim.left_in));
         mViewFlipper.setOutAnimation(AnimationUtils.loadAnimation(mContext, R.anim.left_out));
         mViewFlipper.startFlipping();
