@@ -86,7 +86,7 @@ public class MainActivityFragment extends Fragment {
         //Inicarlizar el video automaticamente
         try {
             videoView = (VideoView) rootView.findViewById(R.id.vvIntro);
-            Uri path = Uri.parse("android.resource://com.fahed.developer.nature/" + R.raw.intros);
+            Uri path = Uri.parse("android.resource://com.fahed.developer.bestparty/" + R.raw.intros);
             videoView.setVideoURI(path);
             videoView.start();
             //Repetir video automaticamente
