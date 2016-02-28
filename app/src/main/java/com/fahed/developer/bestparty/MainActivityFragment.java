@@ -125,4 +125,9 @@ public class MainActivityFragment extends Fragment {
         super.onAttach(activity);
         FuentePersonalizado= Typeface.createFromAsset(getActivity().getAssets(), "Sansation-Regular.ttf");
     }
+    @Override
+    public void onResume() {
+        super.onResume();
+        videoView.start();
+    }
 }
