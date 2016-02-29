@@ -8,7 +8,7 @@ I hope you learn to help, my English is not good.
         <img width="45%" src="ScreenShots/proyectox.jpg" alt="About screen" title="About screen"</img>
         <img height="0" width="8px">
 </div>
-![BestParty](https://raw.githubusercontent.com/DeHaF/BestParty/tree/master/ScreenShots/proyectobestparty.gif)
+![BestParty](https://github.com/DeHaF/BestParty/tree/master/ScreenShots/proyectobestparty.gif)
 
 Configuration
 ================
@@ -20,7 +20,7 @@ Configuration
 
 <div align="center">
         <img width="45%" src="ScreenShots/wallpaperparty.png" alt="About screen" title="About screen"</img>
-        <img height="0" width="8px">
+        <img height="0" width="16px">
 </div>
 
 
