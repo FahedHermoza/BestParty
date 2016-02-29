@@ -9,10 +9,10 @@ I hope you learn to help, my English is not good.
         <img height="0" width="8px">
 </div>
 <div align="center">
-        <img width="45%" src="ScreenShots/proyectobestparty.gif" alt="About screen" title="About screen"</img>
+        <img width="20%" src="ScreenShots/proyectobestparty.gif" alt="About screen" title="About screen"</img>
         <img height="0" width="8px">
 </div>
-![BestParty](https://github.com/DeHaF/BestParty/tree/master/ScreenShots/proyectobestparty.gif)
+
 
 Configuration
 ================
